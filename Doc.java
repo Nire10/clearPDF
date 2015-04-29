@@ -4,6 +4,8 @@ public class Doc
     private String workFolder;
     private String sourceFolder;
     private int pageCount;
+    
+    //this is just a test comment
 
     //constructor
     public Doc(String workfolder, String sourcefolder)
